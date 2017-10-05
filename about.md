@@ -8,8 +8,7 @@ This is group 2's blog. Enjoy reading about us. Or don't.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+All information is in the blog
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Don't contact us
