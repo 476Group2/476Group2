@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is group 2's blog. Enjoy reading about us. Or don't.
 
 ### More Information
 
