@@ -3,7 +3,7 @@ title: Clarissa Huerta's post
 ---
 # Clarissa's Blog Page
 
-##ABOUT ME
+## ABOUT ME
 
 HOWDY!
 
